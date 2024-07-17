@@ -1,0 +1,20 @@
+.categorias{
+    background-color: #6BD1FF;
+    display: flex;
+    width: 432px;
+    height: 70px;
+    justify-content: center;
+    align-items: center;
+}
+
+h3{
+    color: white;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-transform: uppercase;
+     
+}
